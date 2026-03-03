@@ -106,7 +106,7 @@ ufc-fight-predictor/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tuusuario/ufc-fight-predictor.git
+git clone https://github.com/Marescaa/ufc-fight-predictor.git
 cd ufc-fight-predictor
 
 # 2. Instalar dependencias
